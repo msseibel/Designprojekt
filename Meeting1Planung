@@ -1,0 +1,47 @@
+Management
+    Zeitmanagement    
+        Urlaubsplanung
+        Klausuren
+        Aufgabenplanung
+        Gantt
+    Projektantrag
+        Stand der Technik -> Ausmessung von Magnetfeldern (Bücher, Patente, Paper) Ziel: Welche Fehlerquellen.        
+    Vorträge Planung
+
+Einarbeitung Allgemein:
+    Relevanz der Arbeit für die Mikrowellentechnik
+    Magnetfeldmessung
+    
+Dependencies:
+    Kreuztisch ->        Befestigung für Sensor   -> 
+    -Specification: Ley
+    Sensor Labview Interface                      -> 
+                         Modellierung Einarbeiten ->
+
+Progammierung:
+    Sprachen.
+        Labview, Matlab oder Python
+    Requirements von Ley. 
+    Ansteuerung des Kreuztisches
+    Messdaten auslesen + archivieren
+    Visualisierung der Messdaten
+    UML Diagram o.ä. (Tim)
+
+3D Druck:
+    Einarbeitung (Software, Lizenzen)
+    Wer verwaltet den Drucker?
+    
+Simulation:    
+    Vorstellung Sebastian?
+    Zweck der Simulation.
+    Einarbeitung (Software, Lizenzen)
+    
+Ergebnisse:    
+    Vergleich Messung mit Simulation
+        
+Kostenkalkulation
+    3D Drucker (Kartusche)
+    Kaffee 
+    Kreuztisch
+    
+Todo:
